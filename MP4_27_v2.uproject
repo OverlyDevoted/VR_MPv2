@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6F3358A2-4BDE-3DA9-FA8D-F5BA40CB06B7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MP4_27_v2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+		}
+	]
+}
